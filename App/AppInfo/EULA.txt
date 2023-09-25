@@ -1,0 +1,55 @@
+End User License Agreement Overview
+Last updated: December 11, 2020
+
+QUICK SUMMARY
+Obsidian is free to use, mostly
+You need to pay for Obsidian if and only if you use it to contribute, directly or indirectly, to revenue-generating, work-related activities in a company that has two or more people. Get a commercial license for each user if that's the case. Registered non-profit organizations do not need commercial licenses.
+
+For all other uses, you can use Obsidian for free forever.
+
+To support our development, you can pay for one-time Catalyst licenses to get early access to new Obsidian versions, but it's completely optional. You can contribute more via Obsidian Unlimited if you wish.
+
+Your data is local and yours only
+To use Obsidian, you do not need to provide your email or create an account. You only need to do so if you intend to pay us or use one of our add-on services (Obsidian Publish and Obsidian Sync).
+
+All data is saved on your device locally and is never sent to our server. We do not collect any personal data either.
+
+Obviously, if you use our Obsidian Publish or Obsidian Sync services, to provide the services we need to access your data (encrypted data in the case of Obsidian Sync). We only do what's needed to provide the services and nothing more with your data.
+
+It is essential that you read and understand our End User License Agreement https://obsidian.md/terms and Privacy Policy https://obsidian.md/privacy, because you must agree to both to use Obsidian. These documents provide all terms to the relationship between Obsidian users and Dynalist Inc., the company that develops and provides Obsidian, including licensing and fees, the security of your content (and ours), privacy, liability and how we agree to resolve any disputes.
+
+This page is only a summary of key details.
+
+LICENSING AND PERSONAL INFORMATION
+You must have a license to use Obsidian, though some users may use a free license. If you aren’t sure which license you need, please see our Licensing FAQ at the bottom of this page.
+
+If you make an account with Obsidian or purchase a Commercial Use License, one or more add-on services, and/or Catalyst, we’ll need to collect some personal information from you in the process. We will securely handle any information you provide in accordance with our End User License Agreement and Privacy Policy. We only collect the personal information we require to provide you with services at your request, and no more. This information will never be used for any other purpose, and will be retained only as long as necessary.
+
+PERSONAL USE AND OTHER FREE LICENSE CATEGORIES
+Unless you require a Commercial Use License, you can download and use Obsidian for free, forever, under one of our free license types: Personal Use Licenses, De Minimis Commercial Use Licenses, and Not for Profit Licenses.
+
+Each allows you to download and use Obsidian without creating an account. When you download Obsidian without creating an account, we do not collect, store or transmit any of your personal information.
+
+COMMERCIAL USE
+Commercial Use Licenses are required whenever Obsidian is being used for work for a business with two or more personnel. Sole proprietorships or other one-person organizations do not require a Commercial Use License. Work for educational purposes does not require a Commercial Use License.
+
+Commercial Use Licenses must be purchased on an annual and per user basis. Commercial users must purchase at least as many licenses as the number of people who will be using Obsidian.
+
+CATALYST
+Catalyst Licenses are special licenses available for all other license holders to purchase. In both cases you will have additional benefits and early access to insider builds.
+
+CONTENT
+We know content privacy is important to our users, and we know many of you value Obsidian for the privacy and security its offline service model provides.
+
+Regardless of your license type, unless you are using an add-on service, such as Obsidian Sync or Obsidian Publish, the Obsidian will never collect, transmit, or store the content you generate while using the app, which exists only on as local files. If you take advantage of an add-on, some of your content will need to be transmitted over networks to secure data storage in order to provide you with these services. At all times, Obsidian will handle your data securely, in accordance with our End User License Agreement and Privacy Policy.
+
+COPYRIGHT
+Obsidian claims no ownership or rights over any content you generate using Obsidian. You always own your content.
+
+We own and reserve all associated rights to our content, which includes any text, images, and software code in the app.
+
+These rights are protected by copyright, trademark, patent, trade secret and other laws.
+
+LICENSING FREQUENTLY ASKED QUESTIONS
+Not sure if you need a commercial license? Check out our licensing FAQ here.
+https://help.obsidian.md/Licenses+%26+Payment/Commercial+license#FAQ
