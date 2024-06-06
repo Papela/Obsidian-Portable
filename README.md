@@ -18,3 +18,6 @@ If you want to contribute to this project, you can follow the following steps:
 3. Make your changes and commit: *git commit -m "Added new functionality"*.
 4. Push to the branch: *git push origin new-feature*.
 5. Open a pull request on GitHub.
+
+## Donations
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C2Z01D3)
