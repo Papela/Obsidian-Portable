@@ -2,8 +2,11 @@
 # Obsidian-Portable
 Unofficial Obsidian Portable Repository
 
-## Current Obsidian Version
-[Obsidian For Windows x64 - 1.4.13](https://obsidian.md/changelog/2023-09-15-desktop-v1.4.13/)
+## Obsidian-Portable Version List
+<ul>
+<li>[Obsidian For Windows x64 - 1.6.5](https://obsidian.md/changelog/2024-06-25-desktop-v1.6.5/)</li>
+<li>[Obsidian For Windows x64 - 1.4.13](https://obsidian.md/changelog/2023-09-15-desktop-v1.4.13/)</li>
+</ul>
 
 ## License
 This project is licensed under the GPL-3.0 License. View the file [LICENSE](https://github.com/Papela/discord-vote/blob/main/LICENSE) file for more details.
