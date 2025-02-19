@@ -1,16 +1,17 @@
 
-# Obsidian-Portable
-Unofficial Obsidian Portable Repository
+# Obsidian Portable
+Obsidian Portable Repository
 
-## Obsidian Version Changelog
+## Official Obsidian Version Changelog
 
-- [Obsidian For Windows x64 - 1.6.5](https://obsidian.md/changelog/2024-06-25-desktop-v1.6.5/)</li>
-- [Obsidian For Windows x64 - 1.4.13](https://obsidian.md/changelog/2023-09-15-desktop-v1.4.13/)</li>
+- [Obsidian For Windows - 1.8.7](https://obsidian.md/changelog/2025-02-18-desktop-v1.8.7/)</li>
+- [Obsidian For Windows - 1.6.5](https://obsidian.md/changelog/2024-06-25-desktop-v1.6.5/)</li>
+- [Obsidian For Windows - 1.4.13](https://obsidian.md/changelog/2023-09-15-desktop-v1.4.13/)</li>
 
 ## License
 This project is licensed under the GPL-3.0 License. View the file [LICENSE](https://github.com/Papela/discord-vote/blob/main/LICENSE) file for more details.
 
-## Author
+## Author of the portable version
 + [@Papela](https://github.com/Papela)
 
 ## Contribute
@@ -22,4 +23,4 @@ If you want to contribute to this project, you can follow the following steps:
 5. Open a pull request on GitHub.
 
 ## Donations
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C2Z01D3)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/papela)
