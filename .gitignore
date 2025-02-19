@@ -1,3 +1,5 @@
 /App/*
+/Data/*
+!/Data/PortableApps.comInstaller/
 !/App/AppInfo/
 /ObsidianPortable.exe
