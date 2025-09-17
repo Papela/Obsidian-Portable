@@ -4,12 +4,13 @@ Obsidian Portable Repository
 
 ## Official Obsidian Version Changelog
 
+- [Obsidian For Windows - 1.9.12](https://obsidian.md/changelog/2025-08-26-desktop-v1.9.12/)</li>
 - [Obsidian For Windows - 1.8.7](https://obsidian.md/changelog/2025-02-18-desktop-v1.8.7/)</li>
 - [Obsidian For Windows - 1.6.5](https://obsidian.md/changelog/2024-06-25-desktop-v1.6.5/)</li>
 - [Obsidian For Windows - 1.4.13](https://obsidian.md/changelog/2023-09-15-desktop-v1.4.13/)</li>
 
 ## License
-This project is licensed under the GPL-3.0 License. View the file [LICENSE](https://github.com/Papela/discord-vote/blob/main/LICENSE) file for more details.
+This project is licensed under the GPL-3.0 License. View the file [LICENSE](https://github.com/Papela/Obsidian-Portable/blob/main/LICENSE) file for more details.
 
 ## Author of the portable version
 + [@Papela](https://github.com/Papela)
