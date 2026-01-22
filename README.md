@@ -4,6 +4,7 @@ Obsidian Portable Repository
 
 ## Official Obsidian Version Changelog
 
+- [Obsidian For Windows - 1.11.5](https://obsidian.md/changelog/2026-01-20-desktop-v1.11.5/)</li>
 - [Obsidian For Windows - 1.9.12](https://obsidian.md/changelog/2025-08-26-desktop-v1.9.12/)</li>
 - [Obsidian For Windows - 1.8.7](https://obsidian.md/changelog/2025-02-18-desktop-v1.8.7/)</li>
 - [Obsidian For Windows - 1.6.5](https://obsidian.md/changelog/2024-06-25-desktop-v1.6.5/)</li>
